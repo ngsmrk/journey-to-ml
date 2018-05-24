@@ -1,5 +1,4 @@
 import pickle
-import textutils
 import pandas as pd
 
 hotel_data = pd.read_csv('./data/hotel-reviews.csv', index_col=0)
